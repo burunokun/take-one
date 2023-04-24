@@ -1,6 +1,6 @@
 # README
 
-Do you feel lost and sometimes seek for guidance directions in your life?<br>
+Do you feel lost and sometimes seek for guidance in your life?<br>
 Here you can get as much as you want, and all for free.
 
 [Advice Slip](https://adviceslip.com/)
