@@ -7,10 +7,6 @@ Here you can get as much as you want, and all for free.
 
 ---
 
-Assuming that you know this programming language...
-Clone the repo and run the command below.<br>
-
-```bash
-cargo run --release
-```
-
+### TODO
+[x] Add simple gui and render text in it;
+[] Figure out how to break text that is bigger than the screen;
