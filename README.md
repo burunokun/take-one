@@ -12,8 +12,11 @@ Here you can get as much as you want, and all for free.
 ---
 
 ### TODO
+<<<<<<< HEAD
 [x] Add simple gui and render text in it;
 [] Figure out how to break text that is bigger than the screen;
 =======
+=======
+>>>>>>> f22c4f5 (fix README markdown checkbox syntax)
 - [x] Add simple gui and render text in it;
 - [ ] Figure out how to break text that is bigger than the screen;
